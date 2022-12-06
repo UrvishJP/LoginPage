@@ -33,7 +33,6 @@ const Contact = () => {
     userContact()
   }, [])
 
-
   return (
     <>
       <div className="contact_info">
